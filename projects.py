@@ -9,7 +9,7 @@ def show_projects():
 
     with col1:
         st.image(
-            "C:\\Users\\jhecy\\OneDrive\\Pictures\\Screenshots\\Screenshot 2026-02-07 192335.png",
+            "images/Screenshot 2026-02-07 192335.png",
             width=600
         )
         st.markdown("""
@@ -19,7 +19,7 @@ def show_projects():
 
     with col2:
         st.image(
-            "C:/Users/jhecy/OneDrive/Pictures/Screenshots/Screenshot 2026-02-13 173945.png",
+            "images/Screenshot 2026-02-13 173945.png",
             width=600
         )
         st.markdown("""
@@ -35,7 +35,7 @@ def show_projects():
 
     with col1:
         st.image(
-            "C:\\Users\\jhecy\\OneDrive\\Desktop\\Limasawa Brochure\\1.png",
+            "images/1.png",
             width=600
         )
         st.markdown("""
@@ -46,7 +46,7 @@ def show_projects():
 
     with col2:
         st.image(
-            "C:\\Users\\jhecy\\OneDrive\\Desktop\\Brochure\\1.png",
+            "images/coffee.png",
             width=600
         )
         st.markdown(""" 
@@ -63,25 +63,25 @@ def show_projects():
 
     with col1:
         st.image(
-            "C:\\Users\\jhecy\\Downloads\\Everyday.png",
+            "images/Everyday.png",
             width=200
         )
 
     with col2:
         st.image(
-            "C:\\Users\\jhecy\\Downloads\\Bakery.png",
+            "images/Bakery.png",
             width=200
         )
 
     with col3:
         st.image(
-            "C:\\Users\\jhecy\\Downloads\\EverWrite.png",
+            "images/EverWrite.png",
             width=200
         )
 
     with col4:
         st.image(
-             "C:\\Users\\jhecy\\Downloads\\pawthway.png",
+             "images/pawthway.png",
             width=200
         )
         st.markdown("---")
@@ -93,7 +93,7 @@ def show_projects():
 
     with col1:
         st.image(
-        "C:\\Users\\jhecy\\Downloads\\Homescreen.png",
+        "images/Homescreen.png",
         width=600
         )
         st.markdown("""
@@ -101,7 +101,7 @@ def show_projects():
             """, unsafe_allow_html=True)
     with col2:
         st.image(
-        "C:\\Users\\jhecy\\Downloads\\Vector.png",
+        "images/Vector.png",
         width=600
         )
         st.markdown("""

@@ -9,7 +9,7 @@ def show_about_me():
     
     with col1:
         st.image(
-            r"C:\Users\jhecy\OneDrive\Pictures\Screenshots\pic.png",
+            "images/pic.png",
             use_container_width=True
         )
     

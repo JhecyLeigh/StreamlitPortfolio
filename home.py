@@ -7,7 +7,7 @@ def show_home():
     
     with col1:
         st.image(
-        r"C:\Users\jhecy\OneDrive\Pictures\Screenshots\profile.png",
+        "images/profile.png",
         caption="Jhecy Leigh T. Mando\n22-3389-294",
         width=250
     )
